@@ -19,3 +19,33 @@ Tree｜104.講解_Maximum Depth of Binary Tree｜
 Tree｜872.講解_Leaf-Similar Trees｜
 
 Tree｜700.講解_Search in a Binary Search Tree｜
+
+【HW03】
+
+Binary Search｜374.講解_Guess Number Higher or Lower｜
+
+Binary Search｜2300.講解_Successful Pairs of Spells and Potions｜
+
+Binary Search｜162.講解_Find Peak Element｜
+
+Binary Search｜875.講解_Koko Eating Bananas｜
+
+【HW04】
+
+Breadth-First Search｜1926.講解_Nearest Exit from Entrance in Maze｜
+
+Breadth-First Search｜994.講解_Rotting Oranges｜
+
+Depth-First Search｜841.講解_Keys and Rooms｜
+
+Depth-First Search｜547.講解_Number of Provinces｜
+
+【HW05】
+
+Stack｜2390.講解_Removing Stars From a String｜
+
+Stack｜735.講解_Asteroid Collision｜
+
+Heap｜2336.講解_Smallest Number in Infinite Set｜
+
+Heap｜2462.講解_Total Cost to Hire K Workers｜
