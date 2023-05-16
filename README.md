@@ -46,6 +46,6 @@ Stack｜2390.講解_Removing Stars From a String｜
 
 Stack｜735.講解_Asteroid Collision｜
 
-Stack｜394.講解_Decode String｜
+Stack｜2130.講解_Maximum Twin Sum of a Linked List｜
 
 Heap｜2462.講解_Total Cost to Hire K Workers｜
