@@ -46,6 +46,6 @@ Stack｜2390.講解_Removing Stars From a String｜
 
 Stack｜735.講解_Asteroid Collision｜
 
-Heap｜2336.講解_Smallest Number in Infinite Set｜
+Stack｜394.講解_Decode String｜
 
 Heap｜2462.講解_Total Cost to Hire K Workers｜
