@@ -24,7 +24,7 @@ Tree｜700.講解_Search in a Binary Search Tree｜
 
 Binary Search｜374.講解_Guess Number Higher or Lower｜
 
-Binary Search｜1004.講解_Successful Pairs of Spells and Potions｜
+Binary Search｜1004.講解_Max Consecutive Ones III｜
 
 Binary Search｜162.講解_Find Peak Element｜
 
