@@ -46,6 +46,6 @@ Stack｜2390.講解_Removing Stars From a String｜
 
 Stack｜735.講解_Asteroid Collision｜
 
-Stack｜.講解_Maximum Twin Sum of a Linked List｜
+Stack｜739.講解_Daily Temperatures｜
 
-Heap｜.講解_Total Cost to Hire K Workers｜
+Heap｜215.講解_Kth Largest Element in an Array｜
