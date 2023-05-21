@@ -12,31 +12,31 @@ String｜392.講解_Is Subsequence｜https://youtu.be/P26hvYZj-u4
 
 【HW02】
 
-Greedy｜605.講解_Can Place Flowers｜
+Greedy｜605.講解_Can Place Flowers｜https://youtu.be/HVafYUA_J7Y
 
-Tree｜104.講解_Maximum Depth of Binary Tree｜
+Tree｜104.講解_Maximum Depth of Binary Tree｜https://youtu.be/Z6jJS47vbtk
 
-Tree｜872.講解_Leaf-Similar Trees｜
+Tree｜872.講解_Leaf-Similar Trees｜https://youtu.be/CWbWNTo3NWk
 
-Tree｜700.講解_Search in a Binary Search Tree｜
+Tree｜700.講解_Search in a Binary Search Tree｜https://youtu.be/cIelqHRx1WQ
 
 【HW03】
 
 Binary Search｜374.講解_Guess Number Higher or Lower｜
 
-Binary Search｜1004.講解_Max Consecutive Ones III｜
+Binary Search｜1004.講解_Max Consecutive Ones III｜https://youtu.be/b-ovh4oQsVI
 
-Binary Search｜162.講解_Find Peak Element｜
+Binary Search｜162.講解_Find Peak Element｜https://youtu.be/9VJlFvAVrAI
 
-Binary Search｜875.講解_Koko Eating Bananas｜
+Binary Search｜875.講解_Koko Eating Bananas｜https://youtu.be/UGyVTqzLC5k
 
 【HW04】
 
-Breadth-First Search｜1926.講解_Nearest Exit from Entrance in Maze｜
+Breadth-First Search｜1926.講解_Nearest Exit from Entrance in Maze｜https://youtu.be/ZY4jqj9HoOE
 
-Breadth-First Search｜994.講解_Rotting Oranges｜
+Breadth-First Search｜994.講解_Rotting Oranges｜https://youtu.be/lda_kntypFM
 
-Depth-First Search｜841.講解_Keys and Rooms｜
+Depth-First Search｜841.講解_Keys and Rooms｜https://youtu.be/GFJ5-N6BZeA
 
 Depth-First Search｜547.講解_Number of Provinces｜
 
