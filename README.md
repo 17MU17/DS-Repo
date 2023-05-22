@@ -22,7 +22,7 @@ Tree｜700.講解_Search in a Binary Search Tree｜https://youtu.be/cIelqHRx1WQ
 
 【HW03】
 
-Binary Search｜374.講解_Guess Number Higher or Lower｜
+Binary Search｜374.講解_Guess Number Higher or Lower｜https://youtu.be/pi-lLhT27aE
 
 Binary Search｜1004.講解_Max Consecutive Ones III｜https://youtu.be/b-ovh4oQsVI
 
@@ -38,14 +38,14 @@ Breadth-First Search｜994.講解_Rotting Oranges｜https://youtu.be/lda_kntypFM
 
 Depth-First Search｜841.講解_Keys and Rooms｜https://youtu.be/GFJ5-N6BZeA
 
-Depth-First Search｜547.講解_Number of Provinces｜
+Depth-First Search｜547.講解_Number of Provinces｜https://youtu.be/VYHS9iPcdP8
 
 【HW05】
 
-Stack｜2390.講解_Removing Stars From a String｜
+Stack｜2390.講解_Removing Stars From a String｜https://youtu.be/uYcNJyHjo58
 
-Stack｜735.講解_Asteroid Collision｜
+Stack｜735.講解_Asteroid Collision｜https://youtu.be/9i06VBArzEQ
 
-Stack｜739.講解_Daily Temperatures｜
+Stack｜739.講解_Daily Temperatures｜https://youtu.be/mK1delcya_Q
 
-Heap｜215.講解_Kth Largest Element in an Array｜
+Heap｜215.講解_Kth Largest Element in an Array｜https://youtu.be/nuurJ5mADyk
